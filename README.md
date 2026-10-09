@@ -24,3 +24,6 @@ Next.js, React, TypeScript, three.js (scène 100 % procédurale : aucun modèle 
 
 ## Principe
 Les agents préparent, **l'humain valide**, et rien n'est jamais envoyé sans validation explicite.
+
+---
+Démo mise en ligne automatiquement par Vercel à chaque envoi sur la branche `main`.
