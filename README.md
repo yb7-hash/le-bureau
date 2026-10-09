@@ -27,3 +27,6 @@ Les agents préparent, **l'humain valide**, et rien n'est jamais envoyé sans va
 
 ---
 Démo mise en ligne automatiquement par Vercel à chaque envoi sur la branche `main`.
+
+## Licence
+MIT, voir [LICENSE](LICENSE).
